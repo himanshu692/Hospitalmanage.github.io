@@ -1,0 +1,10 @@
+#page_image
+{
+ 	background:url("image/image13.jpg") no-repeat; 
+   height:500px;
+    background-size: cover;
+    margin-bottom: 9px;
+    margin-top: 5px;
+   
+}
+

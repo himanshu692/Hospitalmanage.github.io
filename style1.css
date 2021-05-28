@@ -1,0 +1,13 @@
+#page_image
+{
+ 	background:url("image/image13.jpg") no-repeat; 
+   height:550px;
+    background-size: cover;
+   margin-bottom:9px;
+}
+.jumbotron{
+	margin-top: 30px;
+}
+#imagesearch{
+	height: 300px;
+}
